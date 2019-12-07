@@ -26,4 +26,4 @@ OUTPUT.mp4
 ```
 
 動作イメージ:  
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rtGAhK3AAJ0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+[![sample image](http://img.youtube.com/vi/rtGAhK3AAJ0/0.jpg)](http://www.youtube.com/watch?v=rtGAhK3AAJ0)
